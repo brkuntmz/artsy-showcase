@@ -1,0 +1,53 @@
+input[type="text"] {
+  margin: 15px auto;
+  padding: 10px 45px;
+  width: 89%;
+  display: block;
+  position: relative;
+  border-radius: 5px;
+  outline: none;
+}
+
+.input-no-text {
+  background-color: #f8f8f8;
+  color: lightgrey;
+}
+
+.input-with-text {
+  background-color: white;
+  font-weight: bold;
+  box-shadow: 1px 1px 3px rgba(94, 94, 94, 0.42);
+}
+
+.search {
+  position: relative;
+  top: 3.2rem;
+  left: 7%;
+  z-index: 5;
+  cursor: pointer;
+  height: 1.4rem;
+  width: 1.4rem;
+  filter: invert(86%) sepia(0%) saturate(35%) hue-rotate(149deg) brightness(89%)
+    contrast(88%);
+}
+
+.with-text {
+  filter: invert(0%) sepia(6%) saturate(7020%) hue-rotate(127deg)
+    brightness(106%) contrast(100%);
+}
+
+.loading,
+.cancel {
+  position: relative;
+  top: 3.1rem;
+  left: 70%;
+  z-index: 5;
+  height: 1.2rem;
+  width: 1.2rem;
+  filter: invert(86%) sepia(0%) saturate(35%) hue-rotate(149deg) brightness(89%)
+    contrast(88%);
+}
+
+.cancel {
+  cursor: pointer;
+}
