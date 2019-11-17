@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/artsy-showcase/static/css/main.bf2b6c14.chunk.css",
+    "main.js": "/artsy-showcase/static/js/main.ad202886.chunk.js",
+    "main.js.map": "/artsy-showcase/static/js/main.ad202886.chunk.js.map",
+    "runtime~main.js": "/artsy-showcase/static/js/runtime~main.c9fa8fe3.js",
+    "runtime~main.js.map": "/artsy-showcase/static/js/runtime~main.c9fa8fe3.js.map",
+    "static/js/2.f18e2b7f.chunk.js": "/artsy-showcase/static/js/2.f18e2b7f.chunk.js",
+    "static/js/2.f18e2b7f.chunk.js.map": "/artsy-showcase/static/js/2.f18e2b7f.chunk.js.map",
+    "index.html": "/artsy-showcase/index.html",
+    "precache-manifest.29ff3205cbb6793822e5e0b9678fd3a3.js": "/artsy-showcase/precache-manifest.29ff3205cbb6793822e5e0b9678fd3a3.js",
+    "service-worker.js": "/artsy-showcase/service-worker.js",
+    "static/css/main.bf2b6c14.chunk.css.map": "/artsy-showcase/static/css/main.bf2b6c14.chunk.css.map",
+    "static/media/clear.svg": "/artsy-showcase/static/media/clear.2c97f487.svg",
+    "static/media/loading-indicator.svg": "/artsy-showcase/static/media/loading-indicator.6eca94c3.svg",
+    "static/media/magnifying-glass.svg": "/artsy-showcase/static/media/magnifying-glass.a8b3079e.svg",
+    "static/media/photo.svg": "/artsy-showcase/static/media/photo.29a98b0b.svg"
+  }
+}
